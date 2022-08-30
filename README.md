@@ -1,6 +1,6 @@
 # Predicting-the-Spanish-Power-Shortfall
 
-<img src="power.jpg" alt="power" style="max-width: 80%;">
+<img src="power.jpg" alt="power" style="max-width: 100%;">
 
 ## Overview
 This is a team project at EXPLORE AI Academy were **Buhari Shehu, Rogers Mugambi, Junaidu Ibrahim, Izunna Eneude, Cephars Kefa and Peter Sumanu** worked together to build and evaluate various machine learning models to predict energy shortfall between renewable energy resource and the conventional fossil fuel source using the Spanish Power Shortfall Kaggle dataset
