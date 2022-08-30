@@ -1,7 +1,7 @@
 # Predicting-the-Spanish-Power-Shortfall
 
 ## Overview
-This is a team project at EXPLORE AI Academy were **Buhari Shehu, Rogers Mugambi, Junaidu Ibrahim, Izunna Eneude, Cephars Kefa and Peter Sumanu** worked together to build and evaluate various machine learning models to predict energy shortfall between renewable energy resource and the conventional fossil fuel source using the Spanish Power Shortfall Kaggle dataset
+This is a team project at EXPLORE AI Academy were **Buhari Shehu, Rogers Mugambi, Junaidu Ibrahim, Izunna Eneude, Cephars Kefa and Peter Sumanu** worked together to build and evaluate various machine learning models to predict energy shortfall between renewable energy and the conventional fossil fuel sources using the Spanish Power Shortfall Kaggle dataset
 
 The government of Spain is considering an expansion of it's renewable energy resource infrastructure investments. As such, they require information on the trends and patterns of the countries renewable sources and fossil fuel energy generation. Thus we
 
