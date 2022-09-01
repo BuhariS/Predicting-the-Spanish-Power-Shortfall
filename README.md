@@ -15,6 +15,9 @@ The government of Spain is considering an expansion of it's renewable energy res
 - determine what features were most important in the model’s prediction decision, and
 - explain the inner working of the model to a non-technical audience.
 
+## Data Description
+We analyze the Kaggle Dataset of Spanish Power shortfall in order to predict the shortfall. The outcome of the project is useful for planning on expanding the renewable energy resources by the Spanish government.
+
 ## Data Wrangling
 We wrangled the data to make it suitable for exploration and analysis. Thus, we:
 - converted the time column to datetime
